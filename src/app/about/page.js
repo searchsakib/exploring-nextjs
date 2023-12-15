@@ -7,6 +7,7 @@ const AboutPage = () => {
         About Page is Here
       </h2>
       <h5>This line is added in newBranch</h5>
+      <h1>I am the One</h1>
     </div>
   );
 };
