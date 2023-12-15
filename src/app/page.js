@@ -6,6 +6,7 @@ const HomePage = () => {
       <h2 className="text-5xl text-center text-sky-300 font-medium p-10">
         This is Home Page
       </h2>
+      <h2>I am adding more line</h2>
     </div>
   );
 };
