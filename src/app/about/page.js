@@ -6,7 +6,6 @@ const AboutPage = () => {
       <h2 className="text-5xl text-gray-300 text-center p-10 font-medium">
         About Page is Here
       </h2>
-      <h3>Hello Hello</h3>
     </div>
   );
 };
