@@ -1,3 +1,4 @@
+import MyCounter from '@/components/MyCounter/MyCounter';
 import React from 'react';
 
 const HomePage = () => {
@@ -6,6 +7,7 @@ const HomePage = () => {
       <h2 className="text-5xl text-center text-sky-300 font-medium p-10">
         This is Home Page
       </h2>
+      <MyCounter></MyCounter>
     </div>
   );
 };
