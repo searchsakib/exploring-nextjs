@@ -1,4 +1,5 @@
 const specialBlog = () => {
+  console.log('kaka');
   return (
     <div>
       <h2 className="text-2xl text-green-600 text-center">
