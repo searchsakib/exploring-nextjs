@@ -11,7 +11,7 @@ const MyCounter = () => {
           onClick={() => {
             setCounter(counter + 1);
           }}
-          className="border min-w-[80px] mx-3 font-semibold pb-1 bg-green-950 hover:bg-lime-950 active:bg-red-800"
+          className="btn btn-primary text-white px-10 text-2xl mx-3 active:bg-violet-700"
         >
           +
         </button>
@@ -19,7 +19,7 @@ const MyCounter = () => {
           onClick={() => {
             setCounter(counter - 1);
           }}
-          className="border min-w-[80px] mx-3 font-semibold pb-1  bg-green-950 hover:bg-lime-950 active:bg-red-800"
+          className="btn btn-error text-white px-10 text-2xl mx-3 active:bg-violet-700"
         >
           -
         </button>
